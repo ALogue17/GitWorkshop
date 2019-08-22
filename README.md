@@ -8,5 +8,7 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+Alexander Logue
+1. I don't know a lot about Computer Science but I enjoy challenges
+2. I love math and science 
+I hope that this course will show me whether or not I want to pursue comp sci as a career path in university. :)
